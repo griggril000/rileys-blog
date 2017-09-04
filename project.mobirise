@@ -110,7 +110,7 @@
             "sticky": true,
             "logo": false,
             "showBrand": true,
-            "collapsed": false,
+            "collapsed": true,
             "hideButtons": true
           },
           "logo": {
