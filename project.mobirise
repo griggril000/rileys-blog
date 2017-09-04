@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 11,
+    "uniqCompNum": 12,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -36,7 +36,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Riley's Site Home Page",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -285,6 +285,31 @@
           },
           "text": "FOLLOW US",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-b",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": true,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
         },
         {
           "_tags": [
